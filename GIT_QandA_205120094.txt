@@ -1,0 +1,3 @@
+git whatchanged --stat
+git log --follow -p bar
+HEAD refers to the last commit in the currently checked out branch
